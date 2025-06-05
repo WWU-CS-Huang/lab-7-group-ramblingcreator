@@ -1,3 +1,8 @@
+/* Name: Ruby Leroux
+ * Date: 6/5/25
+ * Purpose: Tests Huffman.java
+ */
+
 package lab7;
 
 import static org.junit.Assert.*;

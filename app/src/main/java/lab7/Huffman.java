@@ -1,3 +1,8 @@
+/* Name: Ruby Leroux
+ * Date: 6/5/25
+ * Purpose: A Huffman code tree for encoding a string
+ */
+
 package lab7;
 
 import java.util.HashMap;
